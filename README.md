@@ -1,2 +1,2 @@
-# ipython-notebook
-Notebooks with exercises I've done for online courses
+# ipython-notebooks
+Notebooks with exercises I've done for online courses and tutorials
